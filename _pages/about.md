@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>AI Researcher | Previously @IBM Research Africa| Data Scientist | IoT
 
 profile:
   align: right
