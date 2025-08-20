@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "Download my CV here",
+          description: "You can see and download my CV here",
           section: "Navigation",
           handler: () => {
             window.location.href = "/CV/";
@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/tanya-akumu# your GitHub user name", "_blank");
+          window.open("https://github.com/tanya-akumu", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -483,11 +483,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/tanya-akumu", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://twitter.com/tanya-akumu", "_blank");
         },
       },{
       id: 'light-theme',
