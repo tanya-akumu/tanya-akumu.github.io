@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /CV/
-title: CV
+title: My CV
 description: You can see and download my CV here
 nav: true
 nav_order: 2
