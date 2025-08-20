@@ -2,12 +2,9 @@
 layout: page
 permalink: /CV/
 title: CV
-description: Download my CV here
+description: You can see and download my CV here
 nav: true
 nav_order: 2
-cv_pdf: Tanya_Akumu_Academic_CV.pdf # you can also use external links here
+#cv_pdf: Tanya_Akumu_Academic_CV.pdf # you can also use external links here
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<iframe src="https://drive.google.com/file/d/14n5O39jMd1UeC-4LOAfvupNe50KnIUGi/preview" width="640" height="480" allow="autoplay"></iframe>

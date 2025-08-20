@@ -10,7 +10,7 @@
 email: tanya.akumu@ub.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: tanya-akumu# your GitHub user name
+github_username: tanya-akumu # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 #inspirehep_id: 1010907 # Inspire HEP author ID
@@ -29,7 +29,7 @@ linkedin_username: tanya-akumu # your LinkedIn user name
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 #scholar_userid: # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -42,7 +42,7 @@ rss_icon: true # comment this line to hide the RSS icon
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+x_username: tanya-akumu # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
