@@ -6,7 +6,7 @@ subtitle: <a href='#'>AI Researcher | Previously @IBM Research Africa| Data Scie
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic-Tanya.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Artificial Intelligence in Medicine Lab (BCN-AIM)</p>
