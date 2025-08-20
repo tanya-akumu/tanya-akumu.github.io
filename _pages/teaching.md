@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 description: Download my CV here
 nav: true
-nav_order: 6
+nav_order: 2
 cv_pdf: Tanya_Akumu_Academic_CV.pdf # you can also use external links here
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>AI Researcher | Previously @IBM Research Africa| Data Scientist | IoT
 
