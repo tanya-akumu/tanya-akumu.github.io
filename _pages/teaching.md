@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 #cv_pdf: Tanya_Akumu_Academic_CV.pdf # you can also use external links here
 ---
-<iframe src="https://drive.google.com/file/d/14n5O39jMd1UeC-4LOAfvupNe50KnIUGi/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1i7QVA0yAFGHRPNr4jHx668ePrUo4YXdF/preview" width="640" height="480" allow="autoplay"></iframe>
