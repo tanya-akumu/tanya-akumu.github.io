@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+latest_posts: #ACTIVATE ONCE WE HAVE POSTS!!
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 0 # leave blank to include all the blog posts
 ---
 
 I am an AI researcher and engineer currently pursuing my PhD in Computer Science at the University of Barcelona, where I specialize in AI for medical imaging with a focus on ultrasound technology. My research, funded by a European Research Council grant, aims to develop AI solutions that improve quality healthcare access in low-resource settings.
